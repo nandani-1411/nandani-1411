@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:14B8A6,100:8B5CF6&height=220&section=header&text=Nandani%20Parmar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=LLM%20%2F%20RAG%20Application%20Developer%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=17" width="100%"/>
+<img src="./banner.png" width="100%"/>
 
 ### Building practical AI applications with LLMs, RAG & modern web technologies
 
